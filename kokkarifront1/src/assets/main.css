@@ -1,0 +1,9 @@
+/* main.css */
+
+@import './base.css';
+
+body {
+  background-color: #efe8d8;
+  margin: 0;
+}
+
